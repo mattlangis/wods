@@ -9,7 +9,7 @@ applyTo: "**"
 - The WODs are better when they are fun
 - The WODs needs to be diversified
 - Content you create is in markdown format
-- Content you create is in French, but the WODs can contain English terms commonly used in fitness (AMRAP, EMOM, Tabata, etc.)
+- Content you create is in French, but the WODs should contain English terms commonly used in fitness (AMRAP, EMOM, Tabata, etc.)
 
 ## README.md
 - The README.md contains a href link to all the WOD sets
@@ -41,8 +41,11 @@ applyTo: "**"
     For a single type WOD:
     ```#### WOD Title
     **Type(s):** Type1, Type2
+
     **Duration:** XX minutes
+
     **Warmup:** (5-7 minutes)
+
     - Warmup Exercise 1: Description (reps/time)
     - Warmup Exercise 2: Description (reps/time)
     ...
@@ -56,8 +59,11 @@ applyTo: "**"
     For a mixed type WOD:
     ```#### WOD Title
     **Type(s):** Type1
+
     **Duration:** XX minutes
+
     **Warmup:** (5-7 minutes)
+
     - Warmup Exercise 1: Description (reps/time)
     - Warmup Exercise 2: Description (reps/time)
     ...
