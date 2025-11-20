@@ -34,7 +34,7 @@ applyTo: "**"
     - For Time
     - Chipper
     - Ladder
-    - Pramidal
+    - Pyramidal
 - Some WOD will be only one type like a Chipper, but you can mix/match tabata with station, for example. 
 - You can use examples from `/examples`
 - Wod format would look like:
@@ -81,8 +81,7 @@ applyTo: "**"
     ```
 - WOD format doesn't need to be exactly like that, but it needs to be clear and easy to read
 - WOD can also contain emojis to make it more fun
-- WOD need to be varied, ideally no repetition of the same exercises in the same wod set
 - WOD need to be varied in terms of type, duration, intensity, equipment used, muscle groups targeted
 - WOD need to be creative and engaging
 - WOD need to be safe and effective
-- WOD need to be suitable for a wide range of fitness levels (beginner to advanced, can be scaled up or down)
+- WOD need to be suitable for a wide range of fitness levels (if you do advanced, there's an alternative to scale down)
